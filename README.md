@@ -1,7 +1,7 @@
 <h1 align="center">👤 MD. NAHID UDDIN NAFIS</h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hoodietramp&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=nafisnahid07&color=blueviolet" alt="Profile Views">
 </p>
 
 <p align="center">
@@ -136,3 +136,9 @@ I hereby declare that all the information mentioned above is true to the best of
 
 **Date:** 2nd June, 2023  
 **Place:** Chattogram, Bangladesh
+
+<h2>📊 GitHub Stats:</h2>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nafisnahid07&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&background=000000F1&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</p>
