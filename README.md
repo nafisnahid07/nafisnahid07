@@ -5,22 +5,25 @@
 </p>
 
 <p align="center">
-  <a href="https://paypal.me/amaris1227?country.x=IN&locale.x=en_GB">
-    <img src="https://img.shields.io/badge/Support-Donate-%230077B5?logo=paypal" alt="Donate">
+  <a href="https://join.skype.com/invite/shNXDVDnw0pH">
+    <img src="https://img.shields.io/badge/Skype-Join-%230077B5?logo=skype" alt="Skype">
   </a>
-  <a href="https://www.linkedin.com/in/muntazir-mehdi-b94657139/">
+  <a href="https://www.linkedin.com/in/md-nahid-uddin-nafis-254944228">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/nafis.nahid.9/">
+    <img src="https://img.shields.io/badge/Facebook-Connect-%230077B5?logo=facebook" alt="Facebook">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@eramaris1?sub_confirmation=1">
+  <a href="https://www.youtube.com/@nafisnahid5674?sub_confirmation=1">
     <img src="https://img.shields.io/badge/YouTube-Follow-%23FF0000?logo=youtube" alt="YouTube">
   </a>
-  <a href="https://instagram.com/mehdii.wani">
+  <a href="https://www.instagram.com/_nafis_nahid_/">
     <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?logo=instagram" alt="Instagram">
   </a>
-  <a href="https://linktr.ee/mehdii.wani">
+  <a href="https://linktr.ee/nafisnahid">
     <img src="https://img.shields.io/badge/Social-Links-%230077B5?logo=linktree" alt="Social Links">
   </a>
 </p>
